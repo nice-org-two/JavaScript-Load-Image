@@ -1,0 +1,190 @@
+repo_name: nice-org-two/JavaScript-Load-Image
+report_id: c60803aca69eb7675ffeef7567eaabfa
+repo_type: Public
+timestamp: '2023-11-07T12:49:19+00:00'
+requested_by: blueimp
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  imageURL: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  imageURL: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  imageURL: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  imageURL: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: package.json
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  imageURL: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  imageURL: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/test.yml"
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 9.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  imageURL: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  imageURL: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: package-lock.json
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 36.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: promise-polyfill
+  description: Lightweight promise polyfill. A+ compliant
+  package_url: https://www.npmjs.com/promise-polyfill
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/16882/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.14.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  imageURL: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
