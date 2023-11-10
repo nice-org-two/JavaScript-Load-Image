@@ -1,7 +1,7 @@
 repo_name: nice-org-two/JavaScript-Load-Image
-report_id: a671549c0b4591aa79cbfd231326a270
+report_id: ba31037b86afbbdd5425ae5ed7719afd
 repo_type: Public
-timestamp: '2023-11-08T20:17:44+00:00'
+timestamp: '2023-11-10T16:27:43+00:00'
 requested_by: blueimp
 provider: github
 branch: master
@@ -48,6 +48,8 @@ tools:
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: Chai
   description: A BDD / TDD assertion library
   website_url: http://chaijs.com/
@@ -60,6 +62,8 @@ tools:
   image_url: https://img.stackshare.io/service/1725/chai.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2011-12-12 22:23:15.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -70,6 +74,8 @@ tools:
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2011-12-12 22:23:15.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -88,6 +94,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/test.yml"
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:16:16.000000000 Z
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
     browser
@@ -101,6 +109,8 @@ tools:
   image_url: https://img.stackshare.io/service/832/mocha.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
   website_url: https://prettier.io/
@@ -113,6 +123,8 @@ tools:
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -122,12 +134,16 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2011-12-12 22:23:15.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package-lock.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2019-04-05 14:43:50.000000000 Z
 - name: eslint-config-prettier
   description: Turns off all rules that are unnecessary or might conflict with Prettier
   package_url: https://www.npmjs.com/eslint-config-prettier
@@ -140,6 +156,8 @@ tools:
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: eslint-plugin-jsdoc
   description: JSDoc linting rules for ESLint
   package_url: https://www.npmjs.com/eslint-plugin-jsdoc
@@ -152,6 +170,8 @@ tools:
   image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: eslint-plugin-prettier
   description: Runs prettier as an eslint rule
   package_url: https://www.npmjs.com/eslint-plugin-prettier
@@ -164,6 +184,8 @@ tools:
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: promise-polyfill
   description: Lightweight promise polyfill. A+ compliant
   package_url: https://www.npmjs.com/promise-polyfill
@@ -176,6 +198,8 @@ tools:
   image_url: https://img.stackshare.io/package/16882/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2021-09-25 16:32:58.000000000 Z
 - name: uglify-js
   description: JavaScript parser
   package_url: https://www.npmjs.com/uglify-js
@@ -188,3 +212,5 @@ tools:
   image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: package-lock.json
   detection_source: package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2020-05-08 13:08:39.000000000 Z
