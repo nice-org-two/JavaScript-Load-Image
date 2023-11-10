@@ -34,8 +34,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/JavaScript-Load-Image](https://github.com/nice-org-two/JavaScript-Load-Image)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|19<br/>Contributors|11/08/23 <br/>Report generated|10/20/21<br/>Last commit date|
-|------|------|------|------|
+|17<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
@@ -161,11 +161,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v36.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|N/A|N/A |MIT|N/A|
-|[promise-polyfill](https://www.npmjs.com/promise-polyfill)|v8.2.0|N/A|N/A |MIT|N/A|
-|[uglify-js](https://www.npmjs.com/uglify-js)|v3.14.2|N/A|N/A |BSD-2-Clause|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|09/25/21|Sebastian Tschan |MIT|N/A|
+|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v36.1.0|09/25/21|Sebastian Tschan |BSD-3-Clause|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|09/25/21|Sebastian Tschan |MIT|N/A|
+|[promise-polyfill](https://www.npmjs.com/promise-polyfill)|v8.2.0|09/25/21|Sebastian Tschan |MIT|N/A|
+|[uglify-js](https://www.npmjs.com/uglify-js)|v3.14.2|05/08/20|Sebastian Tschan |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
